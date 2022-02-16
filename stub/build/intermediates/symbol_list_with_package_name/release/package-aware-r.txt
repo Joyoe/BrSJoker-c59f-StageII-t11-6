@@ -1,0 +1,5 @@
+com.brightsight.joker
+string dling
+string no_internet_msg
+string relaunch_app
+string upgrade_msg

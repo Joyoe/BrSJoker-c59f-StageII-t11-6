@@ -1,0 +1,9 @@
+-keep class a.Q { <init>(); }
+-keep class a.z { <init>(); }
+-keep class d.s { <init>(); }
+-keep class f.u7 { <init>(); }
+-keep class fxQ.lk { <init>(); }
+-keep class lt5.a { <init>(); }
+-keep class w.d { <init>(); }
+-keep class xt.R { <init>(); }
+-keep class yy.E { <init>(); }

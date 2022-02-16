@@ -1,0 +1,17 @@
+com/topjohnwu/magisk/utils/APKInstall.java
+ com.brightsight.joker.utils.APKInstall
+com/topjohnwu/magisk/DynAPK.java
+ com.brightsight.joker.DynAPK
+ com.brightsight.joker.DynAPK$Data
+com/brightsight/shared/BuildConfig.java
+ com.brightsight.shared.BuildConfig
+com/topjohnwu/magisk/utils/CompoundEnumeration.java
+ com.brightsight.joker.utils.CompoundEnumeration
+com/topjohnwu/magisk/utils/DynamicClassLoader.java
+ com.brightsight.joker.utils.DynamicClassLoader
+com/topjohnwu/magisk/FileProvider.java
+ com.brightsight.joker.FileProvider
+ com.brightsight.joker.FileProvider$PathStrategy
+ com.brightsight.joker.FileProvider$SimplePathStrategy
+com/topjohnwu/magisk/ProviderInstaller.java
+ com.brightsight.joker.ProviderInstaller

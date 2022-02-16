@@ -1,0 +1,249 @@
+# compiler: R8
+# compiler_version: 3.0.62
+# min_api: 21
+# pg_map_id: ac50b5b
+# common_typos_disable
+DownloadActivity$$ExternalSyntheticLambda0 -> d:
+    com.brightsight.joker.DownloadActivity com.brightsight.joker.DownloadActivity$$InternalSyntheticLambda$1$60ea64e51549560438954a5634db111faa008b6dc570b42969cf443a4d39ebcc$0.f$0 -> b
+    int com.brightsight.joker.DownloadActivity$$InternalSyntheticLambda$1$60ea64e51549560438954a5634db111faa008b6dc570b42969cf443a4d39ebcc$0.$r8$classId -> a
+    void com.brightsight.joker.DownloadActivity$$InternalSyntheticLambda$1$60ea64e51549560438954a5634db111faa008b6dc570b42969cf443a4d39ebcc$0.$r8$init$bridge(com.brightsight.joker.DownloadActivity) -> <init>
+    void com.brightsight.joker.net.Request$$InternalSyntheticLambda$3$36a2f6bd3fe1558af3588161c4abdbc387e5ca3b16185c46ca3576e2cc86a652$0.$r8$init$bridge(com.brightsight.joker.net.Request) -> <init>
+    1:1:org.json.JSONObject com.brightsight.joker.net.Request.dlJSONObject():0:0 -> a
+    1:1:java.lang.Object com.brightsight.joker.net.Request$$InternalSyntheticLambda$3$36a2f6bd3fe1558af3588161c4abdbc387e5ca3b16185c46ca3576e2cc86a652$0.request():0 -> a
+    2:2:java.lang.String com.brightsight.joker.net.Request.dlString():0:0 -> a
+    2:2:org.json.JSONObject com.brightsight.joker.net.Request.dlJSONObject():0 -> a
+    2:2:java.lang.Object com.brightsight.joker.net.Request$$InternalSyntheticLambda$3$36a2f6bd3fe1558af3588161c4abdbc387e5ca3b16185c46ca3576e2cc86a652$0.request():0 -> a
+    3:3:org.json.JSONObject com.brightsight.joker.net.Request.dlJSONObject():0:0 -> a
+    3:3:java.lang.Object com.brightsight.joker.net.Request$$InternalSyntheticLambda$3$36a2f6bd3fe1558af3588161c4abdbc387e5ca3b16185c46ca3576e2cc86a652$0.request():0 -> a
+    4:4:java.lang.String com.brightsight.joker.net.Request.dlString():0:0 -> a
+    4:4:org.json.JSONObject com.brightsight.joker.net.Request.dlJSONObject():0 -> a
+    4:4:java.lang.Object com.brightsight.joker.net.Request$$InternalSyntheticLambda$3$36a2f6bd3fe1558af3588161c4abdbc387e5ca3b16185c46ca3576e2cc86a652$0.request():0 -> a
+DownloadActivity$$ExternalSyntheticLambda1 -> e:
+    com.brightsight.joker.DownloadActivity com.brightsight.joker.DownloadActivity$$InternalSyntheticLambda$0$0da8ad83dd18b6e405c4fe440ae24cd39ab6985e70e7fa9d904df3638cadce2f$0.f$0 -> b
+    int com.brightsight.joker.DownloadActivity$$InternalSyntheticLambda$0$0da8ad83dd18b6e405c4fe440ae24cd39ab6985e70e7fa9d904df3638cadce2f$0.$r8$classId -> a
+    void com.brightsight.joker.DownloadActivity$$InternalSyntheticLambda$0$0da8ad83dd18b6e405c4fe440ae24cd39ab6985e70e7fa9d904df3638cadce2f$0.$r8$init$bridge(com.brightsight.joker.DownloadActivity) -> <init>
+    1:1:void com.brightsight.joker.DownloadActivity.dlAPK():0:0 -> onClick
+    1:1:void com.brightsight.joker.DownloadActivity.lambda$showDialog$2(android.content.DialogInterface,int):0 -> onClick
+    1:1:void com.brightsight.joker.DownloadActivity$$InternalSyntheticLambda$0$0da8ad83dd18b6e405c4fe440ae24cd39ab6985e70e7fa9d904df3638cadce2f$0.onClick$bridge(android.content.DialogInterface,int):0 -> onClick
+    2:2:java.io.File com.brightsight.joker.DynAPK.current(android.content.Context):0:0 -> onClick
+    2:2:void com.brightsight.joker.DownloadActivity.dlAPK():0 -> onClick
+    2:2:void com.brightsight.joker.DownloadActivity.lambda$showDialog$2(android.content.DialogInterface,int):0 -> onClick
+    2:2:void com.brightsight.joker.DownloadActivity$$InternalSyntheticLambda$0$0da8ad83dd18b6e405c4fe440ae24cd39ab6985e70e7fa9d904df3638cadce2f$0.onClick$bridge(android.content.DialogInterface,int):0 -> onClick
+    3:3:void com.brightsight.joker.DownloadActivity.dlAPK():0:0 -> onClick
+    3:3:void com.brightsight.joker.DownloadActivity.lambda$showDialog$2(android.content.DialogInterface,int):0 -> onClick
+    3:3:void com.brightsight.joker.DownloadActivity$$InternalSyntheticLambda$0$0da8ad83dd18b6e405c4fe440ae24cd39ab6985e70e7fa9d904df3638cadce2f$0.onClick$bridge(android.content.DialogInterface,int):0 -> onClick
+    4:4:com.brightsight.joker.net.Request com.brightsight.joker.net.Request.setExecutor(java.util.concurrent.Executor):0:0 -> onClick
+    4:4:void com.brightsight.joker.DownloadActivity.dlAPK():0 -> onClick
+    4:4:void com.brightsight.joker.DownloadActivity.lambda$showDialog$2(android.content.DialogInterface,int):0 -> onClick
+    4:4:void com.brightsight.joker.DownloadActivity$$InternalSyntheticLambda$0$0da8ad83dd18b6e405c4fe440ae24cd39ab6985e70e7fa9d904df3638cadce2f$0.onClick$bridge(android.content.DialogInterface,int):0 -> onClick
+    5:5:void com.brightsight.joker.DownloadActivity.dlAPK():0:0 -> onClick
+    5:5:void com.brightsight.joker.DownloadActivity.lambda$showDialog$2(android.content.DialogInterface,int):0 -> onClick
+    5:5:void com.brightsight.joker.DownloadActivity$$InternalSyntheticLambda$0$0da8ad83dd18b6e405c4fe440ae24cd39ab6985e70e7fa9d904df3638cadce2f$0.onClick$bridge(android.content.DialogInterface,int):0 -> onClick
+    6:6:void com.brightsight.joker.DownloadActivity$$InternalSyntheticLambda$0$0da8ad83dd18b6e405c4fe440ae24cd39ab6985e70e7fa9d904df3638cadce2f$0.onClick$bridge(android.content.DialogInterface,int):0:0 -> onClick
+    7:7:void com.brightsight.joker.DownloadActivity.lambda$onCreate$0(android.content.DialogInterface,int):0:0 -> onClick
+    7:7:void com.brightsight.joker.DownloadActivity$$InternalSyntheticLambda$0$0da8ad83dd18b6e405c4fe440ae24cd39ab6985e70e7fa9d904df3638cadce2f$0.onClick$bridge(android.content.DialogInterface,int):0 -> onClick
+    8:8:void com.brightsight.joker.DownloadActivity$$InternalSyntheticLambda$0$0da8ad83dd18b6e405c4fe440ae24cd39ab6985e70e7fa9d904df3638cadce2f$0.onClick$bridge(android.content.DialogInterface,int):0:0 -> onClick
+    9:9:void com.brightsight.joker.DownloadActivity.lambda$showDialog$3(android.content.DialogInterface,int):0:0 -> onClick
+    9:9:void com.brightsight.joker.DownloadActivity$$InternalSyntheticLambda$0$0da8ad83dd18b6e405c4fe440ae24cd39ab6985e70e7fa9d904df3638cadce2f$0.onClick$bridge(android.content.DialogInterface,int):0 -> onClick
+DownloadActivity$$ExternalSyntheticLambda2 -> f:
+    java.io.File com.brightsight.joker.DownloadActivity$$InternalSyntheticLambda$6$44fa8ec532500ee3626fec5cb47ffc19e0b2dd27c7745df305ee6ad150d0be1d$1.f$1 -> c
+    com.brightsight.joker.DownloadActivity com.brightsight.joker.DownloadActivity$$InternalSyntheticLambda$6$44fa8ec532500ee3626fec5cb47ffc19e0b2dd27c7745df305ee6ad150d0be1d$1.f$0 -> b
+    int com.brightsight.joker.DownloadActivity$$InternalSyntheticLambda$6$44fa8ec532500ee3626fec5cb47ffc19e0b2dd27c7745df305ee6ad150d0be1d$1.$r8$classId -> a
+    void com.brightsight.joker.DownloadActivity$$InternalSyntheticLambda$6$44fa8ec532500ee3626fec5cb47ffc19e0b2dd27c7745df305ee6ad150d0be1d$1.$r8$init$bridge(com.brightsight.joker.DownloadActivity,java.io.File) -> <init>
+    void com.brightsight.joker.net.Request$$InternalSyntheticLambda$5$0edbb0307b2a1203d7d01b882314a4d527bb646d79b3137175990587b87c2788$0.$r8$init$bridge(com.brightsight.joker.net.ResponseListener,java.lang.Object) -> <init>
+    1:1:void com.brightsight.joker.DownloadActivity.lambda$dlAPK$6(java.io.File):0:0 -> run
+    1:1:void com.brightsight.joker.DownloadActivity$$InternalSyntheticLambda$6$44fa8ec532500ee3626fec5cb47ffc19e0b2dd27c7745df305ee6ad150d0be1d$1.run$bridge():0 -> run
+    2:2:android.content.Intent com.brightsight.joker.utils.APKInstall.installIntent(android.content.Context,java.io.File):0:0 -> run
+    2:2:void com.brightsight.joker.utils.APKInstall.install(android.content.Context,java.io.File):0 -> run
+    2:2:void com.brightsight.joker.DownloadActivity.lambda$dlAPK$6(java.io.File):0 -> run
+    2:2:void com.brightsight.joker.DownloadActivity$$InternalSyntheticLambda$6$44fa8ec532500ee3626fec5cb47ffc19e0b2dd27c7745df305ee6ad150d0be1d$1.run$bridge():0 -> run
+    3:3:android.net.Uri com.brightsight.joker.FileProvider.getUriForFile(android.content.Context,java.lang.String,java.io.File):0:0 -> run
+    3:3:android.content.Intent com.brightsight.joker.utils.APKInstall.installIntent(android.content.Context,java.io.File):0 -> run
+    3:3:void com.brightsight.joker.utils.APKInstall.install(android.content.Context,java.io.File):0 -> run
+    3:3:void com.brightsight.joker.DownloadActivity.lambda$dlAPK$6(java.io.File):0 -> run
+    3:3:void com.brightsight.joker.DownloadActivity$$InternalSyntheticLambda$6$44fa8ec532500ee3626fec5cb47ffc19e0b2dd27c7745df305ee6ad150d0be1d$1.run$bridge():0 -> run
+    4:4:android.net.Uri com.brightsight.joker.FileProvider$SimplePathStrategy.getUriForFile(java.io.File):0:0 -> run
+    4:4:android.net.Uri com.brightsight.joker.FileProvider.getUriForFile(android.content.Context,java.lang.String,java.io.File):0 -> run
+    4:4:android.content.Intent com.brightsight.joker.utils.APKInstall.installIntent(android.content.Context,java.io.File):0 -> run
+    4:4:void com.brightsight.joker.utils.APKInstall.install(android.content.Context,java.io.File):0 -> run
+    4:4:void com.brightsight.joker.DownloadActivity.lambda$dlAPK$6(java.io.File):0 -> run
+    4:4:void com.brightsight.joker.DownloadActivity$$InternalSyntheticLambda$6$44fa8ec532500ee3626fec5cb47ffc19e0b2dd27c7745df305ee6ad150d0be1d$1.run$bridge():0 -> run
+    5:5:android.content.Intent com.brightsight.joker.utils.APKInstall.installIntent(android.content.Context,java.io.File):0:0 -> run
+    5:5:void com.brightsight.joker.utils.APKInstall.install(android.content.Context,java.io.File):0 -> run
+    5:5:void com.brightsight.joker.DownloadActivity.lambda$dlAPK$6(java.io.File):0 -> run
+    5:5:void com.brightsight.joker.DownloadActivity$$InternalSyntheticLambda$6$44fa8ec532500ee3626fec5cb47ffc19e0b2dd27c7745df305ee6ad150d0be1d$1.run$bridge():0 -> run
+    6:6:void com.brightsight.joker.utils.APKInstall.install(android.content.Context,java.io.File):0:0 -> run
+    6:6:void com.brightsight.joker.DownloadActivity.lambda$dlAPK$6(java.io.File):0 -> run
+    6:6:void com.brightsight.joker.DownloadActivity$$InternalSyntheticLambda$6$44fa8ec532500ee3626fec5cb47ffc19e0b2dd27c7745df305ee6ad150d0be1d$1.run$bridge():0 -> run
+    7:7:void com.brightsight.joker.DownloadActivity.lambda$dlAPK$6(java.io.File):0:0 -> run
+    7:7:void com.brightsight.joker.DownloadActivity$$InternalSyntheticLambda$6$44fa8ec532500ee3626fec5cb47ffc19e0b2dd27c7745df305ee6ad150d0be1d$1.run$bridge():0 -> run
+    8:8:void com.brightsight.joker.DownloadActivity$$InternalSyntheticLambda$6$44fa8ec532500ee3626fec5cb47ffc19e0b2dd27c7745df305ee6ad150d0be1d$1.run$bridge():0:0 -> run
+    9:9:void com.brightsight.joker.net.Request.lambda$submit$2(com.brightsight.joker.net.ResponseListener,java.lang.Object):0:0 -> run
+    9:9:void com.brightsight.joker.DownloadActivity$$InternalSyntheticLambda$6$44fa8ec532500ee3626fec5cb47ffc19e0b2dd27c7745df305ee6ad150d0be1d$1.run$bridge():0 -> run
+    10:10:void com.brightsight.joker.DownloadActivity.lambda$fetchCanary$4(org.json.JSONObject):0:0 -> run
+    10:10:void com.brightsight.joker.net.Request.lambda$submit$2(com.brightsight.joker.net.ResponseListener,java.lang.Object):0 -> run
+    10:10:void com.brightsight.joker.DownloadActivity$$InternalSyntheticLambda$6$44fa8ec532500ee3626fec5cb47ffc19e0b2dd27c7745df305ee6ad150d0be1d$1.run$bridge():0 -> run
+    11:11:void com.brightsight.joker.DownloadActivity.error(java.lang.Throwable):0:0 -> run
+    11:11:void com.brightsight.joker.DownloadActivity.lambda$fetchCanary$4(org.json.JSONObject):0 -> run
+    11:11:void com.brightsight.joker.net.Request.lambda$submit$2(com.brightsight.joker.net.ResponseListener,java.lang.Object):0 -> run
+    11:11:void com.brightsight.joker.DownloadActivity$$InternalSyntheticLambda$6$44fa8ec532500ee3626fec5cb47ffc19e0b2dd27c7745df305ee6ad150d0be1d$1.run$bridge():0 -> run
+    12:12:void com.brightsight.joker.DownloadActivity$$InternalSyntheticLambda$1$60ea64e51549560438954a5634db111faa008b6dc570b42969cf443a4d39ebcc$0.onResponse$bridge(java.lang.Object):0:0 -> run
+    12:12:void com.brightsight.joker.net.Request.lambda$submit$2(com.brightsight.joker.net.ResponseListener,java.lang.Object):0 -> run
+    12:12:void com.brightsight.joker.DownloadActivity$$InternalSyntheticLambda$6$44fa8ec532500ee3626fec5cb47ffc19e0b2dd27c7745df305ee6ad150d0be1d$1.run$bridge():0 -> run
+    13:13:void com.brightsight.joker.DownloadActivity.lambda$dlAPK$7(java.io.File):0:0 -> run
+    13:13:void com.brightsight.joker.net.Request.lambda$submit$2(com.brightsight.joker.net.ResponseListener,java.lang.Object):0 -> run
+    13:13:void com.brightsight.joker.DownloadActivity$$InternalSyntheticLambda$6$44fa8ec532500ee3626fec5cb47ffc19e0b2dd27c7745df305ee6ad150d0be1d$1.run$bridge():0 -> run
+DownloadActivity$$ExternalSyntheticLambda3 -> g:
+    com.brightsight.joker.DownloadActivity com.brightsight.joker.DownloadActivity$$InternalSyntheticLambda$6$44fa8ec532500ee3626fec5cb47ffc19e0b2dd27c7745df305ee6ad150d0be1d$0.f$0 -> a
+    void com.brightsight.joker.DownloadActivity$$InternalSyntheticLambda$6$44fa8ec532500ee3626fec5cb47ffc19e0b2dd27c7745df305ee6ad150d0be1d$0.<init>(com.brightsight.joker.DownloadActivity) -> <init>
+    1:1:void com.brightsight.joker.DownloadActivity.lambda$dlAPK$5():0:0 -> run
+    1:1:void com.brightsight.joker.DownloadActivity$$InternalSyntheticLambda$6$44fa8ec532500ee3626fec5cb47ffc19e0b2dd27c7745df305ee6ad150d0be1d$0.run():0 -> run
+Request$$ExternalSyntheticLambda0 -> q:
+    java.io.File com.brightsight.joker.net.Request$$InternalSyntheticLambda$4$fa1357d9c2102c3056354f4441fcc9acdb657edb35365f583a7846c5e092630d$0.f$1 -> b
+    com.brightsight.joker.net.Request com.brightsight.joker.net.Request$$InternalSyntheticLambda$4$fa1357d9c2102c3056354f4441fcc9acdb657edb35365f583a7846c5e092630d$0.f$0 -> a
+    void com.brightsight.joker.net.Request$$InternalSyntheticLambda$4$fa1357d9c2102c3056354f4441fcc9acdb657edb35365f583a7846c5e092630d$0.<init>(com.brightsight.joker.net.Request,java.io.File) -> <init>
+    1:1:java.io.File com.brightsight.joker.net.Request.dlFile(java.io.File):0:0 -> a
+    1:1:java.io.File com.brightsight.joker.net.Request.lambda$getAsFile$0(java.io.File):0 -> a
+    1:1:java.lang.Object com.brightsight.joker.net.Request$$InternalSyntheticLambda$4$fa1357d9c2102c3056354f4441fcc9acdb657edb35365f583a7846c5e092630d$0.request():0 -> a
+Request$$ExternalSyntheticLambda1 -> r:
+    com.brightsight.joker.net.Request com.brightsight.joker.net.Request$$InternalSyntheticLambda$4$ce9b446ee3d4011dd8a8df6946fa01215798ebd8b0f39bc22d41a7b728db59f7$0.f$0 -> a
+    com.brightsight.joker.net.Request$Requestor com.brightsight.joker.net.Request$$InternalSyntheticLambda$4$ce9b446ee3d4011dd8a8df6946fa01215798ebd8b0f39bc22d41a7b728db59f7$0.f$1 -> b
+    com.brightsight.joker.net.ResponseListener com.brightsight.joker.net.Request$$InternalSyntheticLambda$4$ce9b446ee3d4011dd8a8df6946fa01215798ebd8b0f39bc22d41a7b728db59f7$0.f$2 -> c
+    void com.brightsight.joker.net.Request$$InternalSyntheticLambda$4$ce9b446ee3d4011dd8a8df6946fa01215798ebd8b0f39bc22d41a7b728db59f7$0.<init>(com.brightsight.joker.net.Request,com.brightsight.joker.net.Request$Requestor,com.brightsight.joker.net.ResponseListener) -> <init>
+    1:1:void com.brightsight.joker.net.Request.lambda$submit$3(com.brightsight.joker.net.Request$Requestor,com.brightsight.joker.net.ResponseListener):0:0 -> run
+    1:1:void com.brightsight.joker.net.Request$$InternalSyntheticLambda$4$ce9b446ee3d4011dd8a8df6946fa01215798ebd8b0f39bc22d41a7b728db59f7$0.run():0 -> run
+    2:2:void com.brightsight.joker.DownloadActivity.error(java.lang.Throwable):0:0 -> run
+    2:2:void com.brightsight.joker.DownloadActivity.lambda$request$1(java.net.HttpURLConnection,java.lang.Exception):0 -> run
+    2:2:void com.brightsight.joker.net.Request.lambda$submit$3(com.brightsight.joker.net.Request$Requestor,com.brightsight.joker.net.ResponseListener):0 -> run
+    2:2:void com.brightsight.joker.net.Request$$InternalSyntheticLambda$4$ce9b446ee3d4011dd8a8df6946fa01215798ebd8b0f39bc22d41a7b728db59f7$0.run():0 -> run
+a.z -> a.z:
+    java.lang.ClassLoader com.brightsight.joker.DelegateComponentFactory.loader -> a
+    android.app.AppComponentFactory com.brightsight.joker.DelegateComponentFactory.receiver -> b
+    1:1:void com.brightsight.joker.DelegateComponentFactory.<init>():0:0 -> <init>
+    1:1:void <init>():0 -> <init>
+    1:1:java.lang.Object com.brightsight.joker.DelegateComponentFactory.create(java.lang.String):0:0 -> a
+    1:1:java.lang.Object com.brightsight.joker.DelegateComponentFactory.create(java.lang.String):0 -> a
+    1:1:android.app.Activity com.brightsight.joker.DelegateComponentFactory.instantiateActivity(java.lang.ClassLoader,java.lang.String,android.content.Intent):0:0 -> instantiateActivity
+    1:1:android.app.Activity com.brightsight.joker.DelegateComponentFactory.instantiateActivity(java.lang.ClassLoader,java.lang.String,android.content.Intent):0 -> instantiateActivity
+    1:1:android.app.Application com.brightsight.joker.DelegateComponentFactory.instantiateApplication(java.lang.ClassLoader,java.lang.String):0:0 -> instantiateApplication
+    1:1:android.app.Application com.brightsight.joker.DelegateComponentFactory.instantiateApplication(java.lang.ClassLoader,java.lang.String):0 -> instantiateApplication
+    1:1:android.content.ContentProvider com.brightsight.joker.DelegateComponentFactory.instantiateProvider(java.lang.ClassLoader,java.lang.String):0:0 -> instantiateProvider
+    1:1:android.content.ContentProvider com.brightsight.joker.DelegateComponentFactory.instantiateProvider(java.lang.ClassLoader,java.lang.String):0 -> instantiateProvider
+    1:1:android.content.BroadcastReceiver com.brightsight.joker.DelegateComponentFactory.instantiateReceiver(java.lang.ClassLoader,java.lang.String,android.content.Intent):0:0 -> instantiateReceiver
+    1:1:android.content.BroadcastReceiver com.brightsight.joker.DelegateComponentFactory.instantiateReceiver(java.lang.ClassLoader,java.lang.String,android.content.Intent):0 -> instantiateReceiver
+    1:1:android.app.Service com.brightsight.joker.DelegateComponentFactory.instantiateService(java.lang.ClassLoader,java.lang.String,android.content.Intent):0:0 -> instantiateService
+    1:1:android.app.Service com.brightsight.joker.DelegateComponentFactory.instantiateService(java.lang.ClassLoader,java.lang.String,android.content.Intent):0 -> instantiateService
+com.brightsight.joker.DelegateApplication -> c:
+    android.app.Application receiver -> a
+    boolean dynLoad -> b
+com.brightsight.joker.DownloadActivity -> h:
+    android.content.Context themed -> b
+    android.app.ProgressDialog dialog -> c
+    java.lang.String apkLink -> a
+    1:1:com.brightsight.joker.net.Request com.brightsight.joker.net.Networking.request(java.lang.String,java.lang.String):0:0 -> a
+    1:1:com.brightsight.joker.net.Request com.brightsight.joker.net.Networking.get(java.lang.String):0 -> a
+    1:1:com.brightsight.joker.net.Request request(java.lang.String):0 -> a
+    2:2:com.brightsight.joker.net.Request request(java.lang.String):0:0 -> a
+    3:3:com.brightsight.joker.net.Request com.brightsight.joker.net.Request.setErrorHandler(com.brightsight.joker.net.ErrorHandler):0:0 -> a
+    3:3:com.brightsight.joker.net.Request request(java.lang.String):0 -> a
+    void showDialog() -> b
+    1:1:boolean com.brightsight.joker.net.Networking.checkNetworkStatus(android.content.Context):0:0 -> onCreate
+    1:1:void onCreate(android.os.Bundle):0 -> onCreate
+    2:2:void onCreate(android.os.Bundle):0:0 -> onCreate
+    3:3:void com.brightsight.joker.DownloadActivity.fetchCanary():0:0 -> onCreate
+    3:3:void onCreate(android.os.Bundle):0 -> onCreate
+    4:4:void onCreate(android.os.Bundle):0:0 -> onCreate
+com.brightsight.joker.DynAPK -> j:
+    java.io.File dynDir -> a
+    java.lang.Object com.brightsight.joker.InjectAPK.componentFactory -> b
+    java.io.File getDynDir(android.content.Context) -> a
+    void com.brightsight.joker.InjectAPK.setClassLoader(android.content.Context,java.lang.ClassLoader) -> b
+    1:1:java.io.File com.brightsight.joker.DynAPK.current(android.content.Context):0:0 -> c
+    1:1:android.app.Application com.brightsight.joker.InjectAPK.setup(android.content.Context):0 -> c
+    2:2:java.io.File com.brightsight.joker.DynAPK.update(android.content.Context):0:0 -> c
+    2:2:android.app.Application com.brightsight.joker.InjectAPK.setup(android.content.Context):0 -> c
+    3:3:android.app.Application com.brightsight.joker.InjectAPK.setup(android.content.Context):0:0 -> c
+    4:4:com.brightsight.joker.DynAPK$Data com.brightsight.joker.InjectAPK.dynData():0:0 -> c
+    4:4:android.app.Application com.brightsight.joker.InjectAPK.setup(android.content.Context):0 -> c
+    5:5:java.lang.Object com.brightsight.joker.DynAPK.pack(com.brightsight.joker.DynAPK$Data):0:0 -> c
+    5:5:android.app.Application com.brightsight.joker.InjectAPK.setup(android.content.Context):0 -> c
+    6:6:android.app.Application com.brightsight.joker.InjectAPK.setup(android.content.Context):0:0 -> c
+    7:7:com.brightsight.joker.DelegateComponentFactory com.brightsight.joker.InjectAPK.getComponentFactory():0:0 -> c
+    7:7:android.app.Application com.brightsight.joker.InjectAPK.setup(android.content.Context):0 -> c
+    8:8:android.app.Application com.brightsight.joker.InjectAPK.setup(android.content.Context):0:0 -> c
+    9:9:com.brightsight.joker.DelegateComponentFactory com.brightsight.joker.InjectAPK.getComponentFactory():0:0 -> c
+    9:9:android.app.Application com.brightsight.joker.InjectAPK.setup(android.content.Context):0 -> c
+    10:10:android.app.Application com.brightsight.joker.InjectAPK.setup(android.content.Context):0:0 -> c
+    11:11:com.brightsight.joker.DelegateComponentFactory com.brightsight.joker.InjectAPK.getComponentFactory():0:0 -> c
+    11:11:android.app.Application com.brightsight.joker.InjectAPK.setup(android.content.Context):0 -> c
+    12:12:android.app.Application com.brightsight.joker.InjectAPK.setup(android.content.Context):0:0 -> c
+com.brightsight.joker.FileProvider -> m:
+    java.io.File DEVICE_ROOT -> c
+    com.brightsight.joker.FileProvider$PathStrategy mStrategy -> a
+    java.util.HashMap sCache -> d
+    java.lang.String[] COLUMNS -> b
+    java.io.File buildPath(java.io.File,java.lang.String[]) -> a
+    com.brightsight.joker.FileProvider$PathStrategy createPathStrategy(android.content.Context,java.lang.String) -> b
+    com.brightsight.joker.FileProvider$PathStrategy getPathStrategy(android.content.Context,java.lang.String) -> c
+    1:1:int com.brightsight.joker.FileProvider.modeToMode(java.lang.String):0:0 -> openFile
+    1:1:android.os.ParcelFileDescriptor openFile(android.net.Uri,java.lang.String):0 -> openFile
+    2:2:android.os.ParcelFileDescriptor openFile(android.net.Uri,java.lang.String):0:0 -> openFile
+    1:1:java.lang.String[] com.brightsight.joker.FileProvider.copyOf(java.lang.String[],int):0:0 -> query
+    1:1:android.database.Cursor query(android.net.Uri,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String):0 -> query
+    2:2:java.lang.Object[] com.brightsight.joker.FileProvider.copyOf(java.lang.Object[],int):0:0 -> query
+    2:2:android.database.Cursor query(android.net.Uri,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String):0 -> query
+    3:3:android.database.Cursor query(android.net.Uri,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String):0:0 -> query
+com.brightsight.joker.FileProvider$SimplePathStrategy -> l:
+    java.util.HashMap mRoots -> b
+    java.lang.String mAuthority -> a
+    void addRoot(java.lang.String,java.io.File) -> a
+    java.io.File getFileForUri(android.net.Uri) -> b
+com.brightsight.joker.InjectedClassLoader -> n:
+    int $r8$classId -> a
+    1:1:void com.brightsight.joker.RedirectClassLoader.<init>():0:0 -> <init>
+    1:1:void com.brightsight.joker.RedirectClassLoader.$r8$init$bridge():0 -> <init>
+    2:2:void com.brightsight.joker.InjectedClassLoader.<init>(java.io.File):0:0 -> <init>
+    2:2:void $r8$init$bridge(java.io.File):0 -> <init>
+    1:1:java.lang.String com.brightsight.joker.Mapping.get(java.lang.String):0:0 -> loadClass
+    1:1:java.lang.Class com.brightsight.joker.InjectedClassLoader.loadClass(java.lang.String,boolean):0 -> loadClass
+    1:1:java.lang.Class loadClass$bridge(java.lang.String,boolean):0 -> loadClass
+    2:2:java.lang.Class com.brightsight.joker.InjectedClassLoader.loadClass(java.lang.String,boolean):0:0 -> loadClass
+    2:2:java.lang.Class loadClass$bridge(java.lang.String,boolean):0 -> loadClass
+    3:3:java.lang.Class com.brightsight.joker.RedirectClassLoader.loadClass(java.lang.String,boolean):0:0 -> loadClass
+    3:3:java.lang.Class loadClass$bridge(java.lang.String,boolean):0 -> loadClass
+com.brightsight.joker.Mapping -> o:
+    java.util.Map map -> a
+    java.util.Map internalMap -> b
+    java.util.Map inverseMap -> c
+com.brightsight.joker.dummy.DummyReceiver -> i:
+com.brightsight.joker.net.BadRequest -> a:
+    java.io.IOException ex -> d
+    void getAsFile(java.io.File,com.brightsight.joker.net.ResponseListener) -> a
+    void getAsJSONObject(com.brightsight.joker.net.ResponseListener) -> b
+    1:1:void com.brightsight.joker.DownloadActivity.error(java.lang.Throwable):0:0 -> d
+    1:1:void com.brightsight.joker.DownloadActivity.lambda$request$1(java.net.HttpURLConnection,java.lang.Exception):0 -> d
+    1:1:void fail():0 -> d
+com.brightsight.joker.net.Networking -> p:
+    android.os.Handler mainHandler -> a
+com.brightsight.joker.net.Request -> u:
+    com.brightsight.joker.net.ErrorHandler err -> c
+    java.util.concurrent.Executor executor -> b
+    java.net.HttpURLConnection conn -> a
+    1:1:void com.brightsight.joker.net.Request.submit(com.brightsight.joker.net.Request$Requestor,com.brightsight.joker.net.ResponseListener):0:0 -> a
+    1:1:void getAsFile(java.io.File,com.brightsight.joker.net.ResponseListener):0 -> a
+    1:1:void com.brightsight.joker.net.Request.submit(com.brightsight.joker.net.Request$Requestor,com.brightsight.joker.net.ResponseListener):0:0 -> b
+    1:1:void getAsJSONObject(com.brightsight.joker.net.ResponseListener):0 -> b
+    1:1:void com.brightsight.joker.net.Request.connect0():0:0 -> c
+    1:1:java.io.BufferedInputStream getInputStream():0 -> c
+    2:2:java.io.BufferedInputStream getInputStream():0:0 -> c
+com.brightsight.joker.net.Request$1 -> s:
+    com.brightsight.joker.net.Request this$0 -> a
+com.brightsight.joker.net.Request$Requestor -> t:
+    java.lang.Object request() -> a
+com.brightsight.joker.net.ResponseListener -> v:
+com.brightsight.joker.utils.CompoundEnumeration -> b:
+    java.util.Enumeration[] enums -> a
+    int index -> b
+    boolean next() -> a
+com.brightsight.joker.utils.DynamicClassLoader -> k:
+    java.lang.ClassLoader base -> a

@@ -1,0 +1,191 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.brightsight.joker"
+4    android:versionCode="1"
+5    android:versionName="307ec272" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->/home/evaluator/Documents/Magisk-c59f-StageII-t11-6/stub/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->/home/evaluator/Documents/Magisk-c59f-StageII-t11-6/stub/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.USE_BIOMETRIC" />
+11-->/home/evaluator/Documents/Magisk-c59f-StageII-t11-6/stub/src/main/AndroidManifest.xml:7:5-72
+11-->/home/evaluator/Documents/Magisk-c59f-StageII-t11-6/stub/src/main/AndroidManifest.xml:7:22-69
+12    <uses-permission android:name="android.permission.USE_FINGERPRINT" />
+12-->/home/evaluator/Documents/Magisk-c59f-StageII-t11-6/stub/src/main/AndroidManifest.xml:8:5-74
+12-->/home/evaluator/Documents/Magisk-c59f-StageII-t11-6/stub/src/main/AndroidManifest.xml:8:22-71
+13    <uses-permission android:name="com.android.launcher.permission.INSTALL_SHORTCUT" />
+13-->/home/evaluator/Documents/Magisk-c59f-StageII-t11-6/stub/src/main/AndroidManifest.xml:9:5-88
+13-->/home/evaluator/Documents/Magisk-c59f-StageII-t11-6/stub/src/main/AndroidManifest.xml:9:22-85
+14    <uses-permission android:name="android.permission.INTERNET" />
+14-->[:app:shared] /home/evaluator/Documents/Magisk-c59f-StageII-t11-6/app/shared/build/intermediates/merged_manifest/release/AndroidManifest.xml:11:5-67
+14-->[:app:shared] /home/evaluator/Documents/Magisk-c59f-StageII-t11-6/app/shared/build/intermediates/merged_manifest/release/AndroidManifest.xml:11:22-64
+15    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+15-->[:app:shared] /home/evaluator/Documents/Magisk-c59f-StageII-t11-6/app/shared/build/intermediates/merged_manifest/release/AndroidManifest.xml:12:5-79
+15-->[:app:shared] /home/evaluator/Documents/Magisk-c59f-StageII-t11-6/app/shared/build/intermediates/merged_manifest/release/AndroidManifest.xml:12:22-76
+16    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+16-->[:app:shared] /home/evaluator/Documents/Magisk-c59f-StageII-t11-6/app/shared/build/intermediates/merged_manifest/release/AndroidManifest.xml:13:5-77
+16-->[:app:shared] /home/evaluator/Documents/Magisk-c59f-StageII-t11-6/app/shared/build/intermediates/merged_manifest/release/AndroidManifest.xml:13:22-74
+17    <uses-permission android:name="android.permission.REQUEST_INSTALL_PACKAGES" />
+17-->[:app:shared] /home/evaluator/Documents/Magisk-c59f-StageII-t11-6/app/shared/build/intermediates/merged_manifest/release/AndroidManifest.xml:14:5-83
+17-->[:app:shared] /home/evaluator/Documents/Magisk-c59f-StageII-t11-6/app/shared/build/intermediates/merged_manifest/release/AndroidManifest.xml:14:22-80
+18    <uses-permission
+18-->[:app:shared] /home/evaluator/Documents/Magisk-c59f-StageII-t11-6/app/shared/build/intermediates/merged_manifest/release/AndroidManifest.xml:15:5-18:40
+19        android:name="android.permission.WRITE_EXTERNAL_STORAGE"
+19-->[:app:shared] /home/evaluator/Documents/Magisk-c59f-StageII-t11-6/app/shared/build/intermediates/merged_manifest/release/AndroidManifest.xml:16:9-65
+20        android:maxSdkVersion="29" />
+20-->[:app:shared] /home/evaluator/Documents/Magisk-c59f-StageII-t11-6/app/shared/build/intermediates/merged_manifest/release/AndroidManifest.xml:17:9-35
+21    <uses-permission android:name="android.permission.QUERY_ALL_PACKAGES" />
+21-->[:app:shared] /home/evaluator/Documents/Magisk-c59f-StageII-t11-6/app/shared/build/intermediates/merged_manifest/release/AndroidManifest.xml:19:5-21:53
+21-->[:app:shared] /home/evaluator/Documents/Magisk-c59f-StageII-t11-6/app/shared/build/intermediates/merged_manifest/release/AndroidManifest.xml:20:9-61
+22
+23    <application
+23-->/home/evaluator/Documents/Magisk-c59f-StageII-t11-6/stub/src/main/AndroidManifest.xml:11:5-86:19
+24        android:name="a.Q"
+24-->/home/evaluator/Documents/Magisk-c59f-StageII-t11-6/stub/src/main/AndroidManifest.xml:12:9-27
+25        android:allowBackup="false"
+25-->[:app:shared] /home/evaluator/Documents/Magisk-c59f-StageII-t11-6/app/shared/build/intermediates/merged_manifest/release/AndroidManifest.xml:24:9-36
+26        android:appComponentFactory="a.z"
+26-->/home/evaluator/Documents/Magisk-c59f-StageII-t11-6/stub/src/main/AndroidManifest.xml:13:9-42
+27        android:label="BrSJoker"
+27-->[:app:shared] /home/evaluator/Documents/Magisk-c59f-StageII-t11-6/app/shared/build/intermediates/merged_manifest/release/AndroidManifest.xml:25:9-33
+28        android:requestLegacyExternalStorage="true"
+28-->[:app:shared] /home/evaluator/Documents/Magisk-c59f-StageII-t11-6/app/shared/build/intermediates/merged_manifest/release/AndroidManifest.xml:26:9-52
+29        android:supportsRtl="true"
+29-->[:app:shared] /home/evaluator/Documents/Magisk-c59f-StageII-t11-6/app/shared/build/intermediates/merged_manifest/release/AndroidManifest.xml:27:9-35
+30        android:theme="@android:style/Theme.Translucent.NoTitleBar"
+30-->[:app:shared] /home/evaluator/Documents/Magisk-c59f-StageII-t11-6/app/shared/build/intermediates/merged_manifest/release/AndroidManifest.xml:28:9-68
+31        android:usesCleartextTraffic="true" >
+31-->[:app:shared] /home/evaluator/Documents/Magisk-c59f-StageII-t11-6/app/shared/build/intermediates/merged_manifest/release/AndroidManifest.xml:29:9-44
+32
+33        <!-- Splash -->
+34        <activity
+34-->/home/evaluator/Documents/Magisk-c59f-StageII-t11-6/stub/src/main/AndroidManifest.xml:17:9-28:20
+35            android:name="f.u7"
+35-->/home/evaluator/Documents/Magisk-c59f-StageII-t11-6/stub/src/main/AndroidManifest.xml:18:13-32
+36            android:exported="true" >
+36-->/home/evaluator/Documents/Magisk-c59f-StageII-t11-6/stub/src/main/AndroidManifest.xml:19:13-36
+37            <intent-filter>
+37-->/home/evaluator/Documents/Magisk-c59f-StageII-t11-6/stub/src/main/AndroidManifest.xml:20:13-23:29
+38                <action android:name="android.intent.action.MAIN" />
+38-->/home/evaluator/Documents/Magisk-c59f-StageII-t11-6/stub/src/main/AndroidManifest.xml:21:17-69
+38-->/home/evaluator/Documents/Magisk-c59f-StageII-t11-6/stub/src/main/AndroidManifest.xml:21:25-66
+39
+40                <category android:name="android.intent.category.LAUNCHER" />
+40-->/home/evaluator/Documents/Magisk-c59f-StageII-t11-6/stub/src/main/AndroidManifest.xml:22:17-77
+40-->/home/evaluator/Documents/Magisk-c59f-StageII-t11-6/stub/src/main/AndroidManifest.xml:22:27-74
+41            </intent-filter>
+42            <intent-filter>
+42-->/home/evaluator/Documents/Magisk-c59f-StageII-t11-6/stub/src/main/AndroidManifest.xml:24:13-27:29
+43                <action android:name="android.intent.action.APPLICATION_PREFERENCES" />
+43-->/home/evaluator/Documents/Magisk-c59f-StageII-t11-6/stub/src/main/AndroidManifest.xml:25:17-88
+43-->/home/evaluator/Documents/Magisk-c59f-StageII-t11-6/stub/src/main/AndroidManifest.xml:25:25-85
+44
+45                <category android:name="android.intent.category.DEFAULT" />
+45-->/home/evaluator/Documents/Magisk-c59f-StageII-t11-6/stub/src/main/AndroidManifest.xml:26:17-76
+45-->/home/evaluator/Documents/Magisk-c59f-StageII-t11-6/stub/src/main/AndroidManifest.xml:26:27-73
+46            </intent-filter>
+47        </activity>
+48
+49        <!-- Main -->
+50        <activity android:name="xt.R" />
+50-->/home/evaluator/Documents/Magisk-c59f-StageII-t11-6/stub/src/main/AndroidManifest.xml:31:9-41
+50-->/home/evaluator/Documents/Magisk-c59f-StageII-t11-6/stub/src/main/AndroidManifest.xml:31:19-38
+51
+52        <!-- Superuser -->
+53        <activity
+53-->/home/evaluator/Documents/Magisk-c59f-StageII-t11-6/stub/src/main/AndroidManifest.xml:34:9-44:20
+54            android:name="lt5.a"
+54-->/home/evaluator/Documents/Magisk-c59f-StageII-t11-6/stub/src/main/AndroidManifest.xml:35:13-33
+55            android:directBootAware="true"
+55-->/home/evaluator/Documents/Magisk-c59f-StageII-t11-6/stub/src/main/AndroidManifest.xml:36:13-43
+56            android:excludeFromRecents="true"
+56-->/home/evaluator/Documents/Magisk-c59f-StageII-t11-6/stub/src/main/AndroidManifest.xml:37:13-46
+57            android:exported="false" >
+57-->/home/evaluator/Documents/Magisk-c59f-StageII-t11-6/stub/src/main/AndroidManifest.xml:38:13-37
+58            <intent-filter>
+58-->/home/evaluator/Documents/Magisk-c59f-StageII-t11-6/stub/src/main/AndroidManifest.xml:40:13-43:29
+59                <action android:name="android.intent.action.VIEW" />
+59-->/home/evaluator/Documents/Magisk-c59f-StageII-t11-6/stub/src/main/AndroidManifest.xml:41:17-69
+59-->/home/evaluator/Documents/Magisk-c59f-StageII-t11-6/stub/src/main/AndroidManifest.xml:41:25-66
+60
+61                <category android:name="android.intent.category.DEFAULT" />
+61-->/home/evaluator/Documents/Magisk-c59f-StageII-t11-6/stub/src/main/AndroidManifest.xml:26:17-76
+61-->/home/evaluator/Documents/Magisk-c59f-StageII-t11-6/stub/src/main/AndroidManifest.xml:26:27-73
+62            </intent-filter>
+63        </activity>
+64
+65        <!-- Receiver -->
+66        <receiver
+66-->/home/evaluator/Documents/Magisk-c59f-StageII-t11-6/stub/src/main/AndroidManifest.xml:47:9-60:20
+67            android:name="yy.E"
+67-->/home/evaluator/Documents/Magisk-c59f-StageII-t11-6/stub/src/main/AndroidManifest.xml:48:13-32
+68            android:directBootAware="true"
+68-->/home/evaluator/Documents/Magisk-c59f-StageII-t11-6/stub/src/main/AndroidManifest.xml:49:13-43
+69            android:exported="false" >
+69-->/home/evaluator/Documents/Magisk-c59f-StageII-t11-6/stub/src/main/AndroidManifest.xml:50:13-37
+70            <intent-filter>
+70-->/home/evaluator/Documents/Magisk-c59f-StageII-t11-6/stub/src/main/AndroidManifest.xml:51:13-54:29
+71                <action android:name="android.intent.action.LOCALE_CHANGED" />
+71-->/home/evaluator/Documents/Magisk-c59f-StageII-t11-6/stub/src/main/AndroidManifest.xml:52:17-79
+71-->/home/evaluator/Documents/Magisk-c59f-StageII-t11-6/stub/src/main/AndroidManifest.xml:52:25-76
+72                <action android:name="android.intent.action.UID_REMOVED" />
+72-->/home/evaluator/Documents/Magisk-c59f-StageII-t11-6/stub/src/main/AndroidManifest.xml:53:17-76
+72-->/home/evaluator/Documents/Magisk-c59f-StageII-t11-6/stub/src/main/AndroidManifest.xml:53:25-73
+73            </intent-filter>
+74            <intent-filter>
+74-->/home/evaluator/Documents/Magisk-c59f-StageII-t11-6/stub/src/main/AndroidManifest.xml:55:13-59:29
+75                <action android:name="android.intent.action.PACKAGE_REPLACED" />
+75-->/home/evaluator/Documents/Magisk-c59f-StageII-t11-6/stub/src/main/AndroidManifest.xml:56:17-81
+75-->/home/evaluator/Documents/Magisk-c59f-StageII-t11-6/stub/src/main/AndroidManifest.xml:56:25-78
+76
+77                <data android:scheme="package" />
+77-->/home/evaluator/Documents/Magisk-c59f-StageII-t11-6/stub/src/main/AndroidManifest.xml:58:17-50
+77-->/home/evaluator/Documents/Magisk-c59f-StageII-t11-6/stub/src/main/AndroidManifest.xml:58:23-47
+78            </intent-filter>
+79        </receiver>
+80
+81        <!-- DownloadService -->
+82        <service android:name="d.s" />
+82-->/home/evaluator/Documents/Magisk-c59f-StageII-t11-6/stub/src/main/AndroidManifest.xml:63:9-39
+82-->/home/evaluator/Documents/Magisk-c59f-StageII-t11-6/stub/src/main/AndroidManifest.xml:63:18-36
+83
+84        <!-- FileProvider -->
+85        <provider
+86            android:name="fxQ.lk"
+86-->/home/evaluator/Documents/Magisk-c59f-StageII-t11-6/stub/src/main/AndroidManifest.xml:67:13-34
+87            android:authorities="com.brightsight.joker.provider"
+87-->/home/evaluator/Documents/Magisk-c59f-StageII-t11-6/stub/src/main/AndroidManifest.xml:68:13-60
+88            android:directBootAware="true"
+88-->/home/evaluator/Documents/Magisk-c59f-StageII-t11-6/stub/src/main/AndroidManifest.xml:69:13-43
+89            android:exported="false"
+89-->/home/evaluator/Documents/Magisk-c59f-StageII-t11-6/stub/src/main/AndroidManifest.xml:70:13-37
+90            android:grantUriPermissions="true" />
+90-->/home/evaluator/Documents/Magisk-c59f-StageII-t11-6/stub/src/main/AndroidManifest.xml:71:13-47
+91
+92        <!-- WorkManager -->
+93        <service
+93-->/home/evaluator/Documents/Magisk-c59f-StageII-t11-6/stub/src/main/AndroidManifest.xml:74:9-79:72
+94            android:name="w.d"
+94-->/home/evaluator/Documents/Magisk-c59f-StageII-t11-6/stub/src/main/AndroidManifest.xml:75:13-31
+95            android:directBootAware="false"
+95-->/home/evaluator/Documents/Magisk-c59f-StageII-t11-6/stub/src/main/AndroidManifest.xml:76:13-44
+96            android:enabled="true"
+96-->/home/evaluator/Documents/Magisk-c59f-StageII-t11-6/stub/src/main/AndroidManifest.xml:77:13-35
+97            android:exported="true"
+97-->/home/evaluator/Documents/Magisk-c59f-StageII-t11-6/stub/src/main/AndroidManifest.xml:78:13-36
+98            android:permission="android.permission.BIND_JOB_SERVICE" />
+98-->/home/evaluator/Documents/Magisk-c59f-StageII-t11-6/stub/src/main/AndroidManifest.xml:79:13-69
+99
+100        <!-- Hardcode GMS version -->
+101        <meta-data
+101-->/home/evaluator/Documents/Magisk-c59f-StageII-t11-6/stub/src/main/AndroidManifest.xml:82:9-84:40
+102            android:name="com.google.android.gms.version"
+102-->/home/evaluator/Documents/Magisk-c59f-StageII-t11-6/stub/src/main/AndroidManifest.xml:83:13-58
+103            android:value="12451000" />
+103-->/home/evaluator/Documents/Magisk-c59f-StageII-t11-6/stub/src/main/AndroidManifest.xml:84:13-37
+104    </application>
+105
+106</manifest>

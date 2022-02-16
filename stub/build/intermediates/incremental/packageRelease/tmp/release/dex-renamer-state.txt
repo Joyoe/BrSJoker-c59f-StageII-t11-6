@@ -1,0 +1,4 @@
+#Wed Feb 16 17:46:54 CET 2022
+base.0=/home/evaluator/Documents/Magisk-c59f-StageII-t11-6/stub/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

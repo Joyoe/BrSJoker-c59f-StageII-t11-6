@@ -1,0 +1,8 @@
+new fix: magisk, magisk.db is still generated, but removing magisk and magisk.db, the app still functions
+
+remaining:
+
+magisk_backup
+/sbin/magisk symbolic link
+
+further work, costumzie buysbox as well

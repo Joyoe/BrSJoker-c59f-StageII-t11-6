@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/evaluator/Documents/Magisk-c59f-StageII-t11-6/stub/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-fr/values-fr.xml",
+            "map": [
+                {
+                    "source": "/home/evaluator/Documents/Magisk-c59f-StageII-t11-6/stub/src/main/res/values-fr/strings.xml",
+                    "from": {
+                        "startLines": "4,3,5,2",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "405,266,463,55",
+                        "endColumns": "57,138,85,210",
+                        "endOffsets": "458,400,544,261"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,113,252,338",
+                        "endColumns": "57,138,85,210",
+                        "endOffsets": "108,247,333,544"
+                    }
+                }
+            ]
+        }
+    ]
+}

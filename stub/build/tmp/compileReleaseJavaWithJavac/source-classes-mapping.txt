@@ -1,0 +1,36 @@
+com/topjohnwu/magisk/net/Networking.java
+ com.brightsight.joker.net.Networking
+com/brightsight/joker/BuildConfig.java
+ com.brightsight.joker.BuildConfig
+a/Q.java
+ a.Q
+com/topjohnwu/magisk/DelegateComponentFactory.java
+ com.brightsight.joker.DelegateComponentFactory
+a/z.java
+ a.z
+com/topjohnwu/magisk/InjectAPK.java
+ com.brightsight.joker.InjectAPK
+com/topjohnwu/magisk/net/ResponseListener.java
+ com.brightsight.joker.net.ResponseListener
+com/topjohnwu/magisk/dummy/DummyReceiver.java
+ com.brightsight.joker.dummy.DummyReceiver
+com/topjohnwu/magisk/DelegateApplication.java
+ com.brightsight.joker.DelegateApplication
+com/topjohnwu/magisk/DownloadActivity.java
+ com.brightsight.joker.DownloadActivity
+com/topjohnwu/magisk/dummy/DummyProvider.java
+ com.brightsight.joker.dummy.DummyProvider
+com/topjohnwu/magisk/net/BadRequest.java
+ com.brightsight.joker.net.BadRequest
+com/topjohnwu/magisk/Mapping.java
+ com.brightsight.joker.Mapping
+com/topjohnwu/magisk/net/Request.java
+ com.brightsight.joker.net.Request
+ com.brightsight.joker.net.Request$1
+ com.brightsight.joker.net.Request$Requestor
+ com.brightsight.joker.net.Request$Result
+com/topjohnwu/magisk/ClassLoaders.java
+ com.brightsight.joker.InjectedClassLoader
+ com.brightsight.joker.RedirectClassLoader
+com/topjohnwu/magisk/net/ErrorHandler.java
+ com.brightsight.joker.net.ErrorHandler

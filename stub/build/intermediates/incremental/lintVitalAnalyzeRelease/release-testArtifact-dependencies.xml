@@ -1,0 +1,17 @@
+<dependencies>
+  <compile
+      roots="/home/evaluator/Documents/Magisk-c59f-StageII-t11-6@@:stub::release,/home/evaluator/Documents/Magisk-c59f-StageII-t11-6@@:app:shared::release">
+    <dependency
+        name="/home/evaluator/Documents/Magisk-c59f-StageII-t11-6@@:stub::release"
+        simpleName=":"/>
+    <dependency
+        name="/home/evaluator/Documents/Magisk-c59f-StageII-t11-6@@:app:shared::release"
+        simpleName="Magisk-c59f-StageII-t11-6.app:shared"/>
+  </compile>
+  <package
+      roots="/home/evaluator/Documents/Magisk-c59f-StageII-t11-6@@:app:shared::release">
+    <dependency
+        name="/home/evaluator/Documents/Magisk-c59f-StageII-t11-6@@:app:shared::release"
+        simpleName="Magisk-c59f-StageII-t11-6.app:shared"/>
+  </package>
+</dependencies>

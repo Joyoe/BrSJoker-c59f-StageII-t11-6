@@ -1,0 +1,19 @@
+<libraries>
+  <library
+      name="/home/evaluator/Documents/Magisk-c59f-StageII-t11-6@@:app:shared::release"
+      jars="/home/evaluator/Documents/Magisk-c59f-StageII-t11-6/app/shared/build/.transforms/d9a65a06cd26e60e2c8654b5bbf5c806/transformed/out/jars/classes.jar"
+      resolved="Magisk-c59f-StageII-t11-6.app:shared:unspecified"
+      folder="/home/evaluator/Documents/Magisk-c59f-StageII-t11-6/app/shared/build/.transforms/d9a65a06cd26e60e2c8654b5bbf5c806/transformed/out"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="/home/evaluator/Documents/Magisk-c59f-StageII-t11-6@@:stub::release"
+      jars="/home/evaluator/Documents/Magisk-c59f-StageII-t11-6/stub/build/intermediates/app_classes/release/classes.jar"
+      resolved="::"/>
+</libraries>

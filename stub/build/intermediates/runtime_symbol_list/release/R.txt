@@ -1,0 +1,4 @@
+int string dling 0x80010000
+int string no_internet_msg 0x80010001
+int string relaunch_app 0x80010002
+int string upgrade_msg 0x80010003

@@ -1,0 +1,7 @@
+a.Q
+a.z
+com.brightsight.joker.dummy.DummyReceiver: DummyReceiver()
+a.Q: Q()
+com.brightsight.joker.DownloadActivity: DownloadActivity()
+com.brightsight.joker.FileProvider: FileProvider()
+a.z: z()

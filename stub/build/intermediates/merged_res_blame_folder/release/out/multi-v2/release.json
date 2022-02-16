@@ -1,0 +1,730 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/evaluator/Documents/Magisk-c59f-StageII-t11-6/stub/build/intermediates/merged_res/release/values-ka_values-ka.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/evaluator/Documents/Magisk-c59f-StageII-t11-6/stub/src/main/res/values-ka/strings.xml",
+                    "from": {
+                        "startLines": "4,3,2",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "321,195,55",
+                        "endColumns": "56,125,139",
+                        "endOffsets": "373,316,190"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,112,238",
+                        "endColumns": "56,125,139",
+                        "endOffsets": "107,233,373"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/evaluator/Documents/Magisk-c59f-StageII-t11-6/stub/build/intermediates/merged_res/release/values-pa_values-pa.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/evaluator/Documents/Magisk-c59f-StageII-t11-6/stub/src/main/res/values-pa/strings.xml",
+                    "from": {
+                        "startLines": "4,3,5,2",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "292,177,345,55",
+                        "endColumns": "52,114,71,121",
+                        "endOffsets": "340,287,412,172"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,108,223,295",
+                        "endColumns": "52,114,71,121",
+                        "endOffsets": "103,218,290,412"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/evaluator/Documents/Magisk-c59f-StageII-t11-6/stub/build/intermediates/merged_res/release/values-de_values-de.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/evaluator/Documents/Magisk-c59f-StageII-t11-6/stub/src/main/res/values-de/strings.xml",
+                    "from": {
+                        "startLines": "2,1",
+                        "startColumns": "4,4",
+                        "startOffsets": "158,16",
+                        "endColumns": "153,141",
+                        "endOffsets": "307,153"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,209",
+                        "endColumns": "153,141",
+                        "endOffsets": "204,346"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/evaluator/Documents/Magisk-c59f-StageII-t11-6/stub/build/intermediates/merged_res/release/values-hr_values-hr.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/evaluator/Documents/Magisk-c59f-StageII-t11-6/stub/src/main/res/values-hr/strings.xml",
+                    "from": {
+                        "startLines": "4,3,5,2",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "303,186,349,55",
+                        "endColumns": "45,116,75,130",
+                        "endOffsets": "344,298,420,181"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,101,218,294",
+                        "endColumns": "45,116,75,130",
+                        "endOffsets": "96,213,289,420"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/evaluator/Documents/Magisk-c59f-StageII-t11-6/stub/build/intermediates/merged_res/release/values-ta_values-ta.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/evaluator/Documents/Magisk-c59f-StageII-t11-6/stub/src/main/res/values-ta/strings.xml",
+                    "from": {
+                        "startLines": "4,3,5,2",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "266,163,316,55",
+                        "endColumns": "49,102,81,107",
+                        "endOffsets": "311,261,393,158"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,105,208,290",
+                        "endColumns": "49,102,81,107",
+                        "endOffsets": "100,203,285,393"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/evaluator/Documents/Magisk-c59f-StageII-t11-6/stub/build/intermediates/merged_res/release/values-ro_values-ro.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/evaluator/Documents/Magisk-c59f-StageII-t11-6/stub/src/main/res/values-ro/strings.xml",
+                    "from": {
+                        "startLines": "3,2,4,1",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "285,146,331,16",
+                        "endColumns": "45,138,79,129",
+                        "endOffsets": "326,280,406,141"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,101,240,320",
+                        "endColumns": "45,138,79,129",
+                        "endOffsets": "96,235,315,445"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/evaluator/Documents/Magisk-c59f-StageII-t11-6/stub/build/intermediates/merged_res/release/values-in_values-in.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/evaluator/Documents/Magisk-c59f-StageII-t11-6/stub/src/main/res/values-in/strings.xml",
+                    "from": {
+                        "startLines": "4,3,5,2",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "311,187,357,55",
+                        "endColumns": "45,123,76,131",
+                        "endOffsets": "352,306,429,182"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,101,225,302",
+                        "endColumns": "45,123,76,131",
+                        "endOffsets": "96,220,297,429"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/evaluator/Documents/Magisk-c59f-StageII-t11-6/stub/build/intermediates/merged_res/release/values-iw_values-iw.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/evaluator/Documents/Magisk-c59f-StageII-t11-6/stub/src/main/res/values-iw/strings.xml",
+                    "from": {
+                        "startLines": "4,3,2",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "272,169,55",
+                        "endColumns": "39,102,113",
+                        "endOffsets": "307,267,164"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,95,198",
+                        "endColumns": "39,102,113",
+                        "endOffsets": "90,193,307"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/evaluator/Documents/Magisk-c59f-StageII-t11-6/stub/build/intermediates/merged_res/release/values-zh-rTW_values-zh-rTW.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/evaluator/Documents/Magisk-c59f-StageII-t11-6/stub/src/main/res/values-zh-rTW/strings.xml",
+                    "from": {
+                        "startLines": "3,2,1",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "167,89,16",
+                        "endColumns": "38,77,72",
+                        "endOffsets": "201,162,84"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,94,172",
+                        "endColumns": "38,77,72",
+                        "endOffsets": "89,167,240"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/evaluator/Documents/Magisk-c59f-StageII-t11-6/stub/build/intermediates/merged_res/release/values-fa_values-fa.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/evaluator/Documents/Magisk-c59f-StageII-t11-6/stub/src/main/res/values-fa/strings.xml",
+                    "from": {
+                        "startLines": "4,3,5,2",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "305,184,352,55",
+                        "endColumns": "46,120,92,128",
+                        "endOffsets": "347,300,440,179"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,102,223,316",
+                        "endColumns": "46,120,92,128",
+                        "endOffsets": "97,218,311,440"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/evaluator/Documents/Magisk-c59f-StageII-t11-6/stub/build/intermediates/merged_res/release/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/evaluator/Documents/Magisk-c59f-StageII-t11-6/stub/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "4,3,5,2",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "275,161,321,55",
+                        "endColumns": "45,113,74,105",
+                        "endOffsets": "316,270,391,156"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,101,215,290",
+                        "endColumns": "45,113,74,105",
+                        "endOffsets": "96,210,285,391"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/evaluator/Documents/Magisk-c59f-StageII-t11-6/stub/build/intermediates/merged_res/release/values-lt_values-lt.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/evaluator/Documents/Magisk-c59f-StageII-t11-6/stub/src/main/res/values-lt/strings.xml",
+                    "from": {
+                        "startLines": "2,1",
+                        "startColumns": "4,4",
+                        "startOffsets": "158,16",
+                        "endColumns": "141,141",
+                        "endOffsets": "295,153"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,197",
+                        "endColumns": "141,141",
+                        "endOffsets": "192,334"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/evaluator/Documents/Magisk-c59f-StageII-t11-6/stub/build/intermediates/merged_res/release/values-nb_values-nb.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/evaluator/Documents/Magisk-c59f-StageII-t11-6/stub/src/main/res/values-nb/strings.xml",
+                    "from": {
+                        "startLines": "3,2",
+                        "startColumns": "4,4",
+                        "startOffsets": "209,55",
+                        "endColumns": "150,153",
+                        "endOffsets": "355,204"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,206",
+                        "endColumns": "150,153",
+                        "endOffsets": "201,355"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/evaluator/Documents/Magisk-c59f-StageII-t11-6/stub/build/intermediates/merged_res/release/values-bg_values-bg.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/evaluator/Documents/Magisk-c59f-StageII-t11-6/stub/src/main/res/values-bg/strings.xml",
+                    "from": {
+                        "startLines": "2,1",
+                        "startColumns": "4,4",
+                        "startOffsets": "176,16",
+                        "endColumns": "165,159",
+                        "endOffsets": "337,171"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,221",
+                        "endColumns": "165,159",
+                        "endOffsets": "216,376"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/evaluator/Documents/Magisk-c59f-StageII-t11-6/stub/build/intermediates/merged_res/release/values-pl_values-pl.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/evaluator/Documents/Magisk-c59f-StageII-t11-6/stub/src/main/res/values-pl/strings.xml",
+                    "from": {
+                        "startLines": "4,3,5,2",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "301,179,346,55",
+                        "endColumns": "44,121,85,123",
+                        "endOffsets": "341,296,427,174"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,100,222,308",
+                        "endColumns": "44,121,85,123",
+                        "endOffsets": "95,217,303,427"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/evaluator/Documents/Magisk-c59f-StageII-t11-6/stub/build/intermediates/merged_res/release/values-be_values-be.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/evaluator/Documents/Magisk-c59f-StageII-t11-6/stub/src/main/res/values-be/strings.xml",
+                    "from": {
+                        "startLines": "4,3,5,2",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "291,170,338,55",
+                        "endColumns": "46,120,87,114",
+                        "endOffsets": "333,286,421,165"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,102,223,311",
+                        "endColumns": "46,120,87,114",
+                        "endOffsets": "97,218,306,421"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/evaluator/Documents/Magisk-c59f-StageII-t11-6/stub/build/intermediates/merged_res/release/values-ru_values-ru.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/evaluator/Documents/Magisk-c59f-StageII-t11-6/stub/src/main/res/values-ru/strings.xml",
+                    "from": {
+                        "startLines": "3,2,4,1",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "243,121,286,16",
+                        "endColumns": "42,121,85,104",
+                        "endOffsets": "281,238,367,116"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,98,220,306",
+                        "endColumns": "42,121,85,104",
+                        "endOffsets": "93,215,301,406"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/evaluator/Documents/Magisk-c59f-StageII-t11-6/stub/build/intermediates/merged_res/release/values-it_values-it.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/evaluator/Documents/Magisk-c59f-StageII-t11-6/stub/src/main/res/values-it/strings.xml",
+                    "from": {
+                        "startLines": "2,1",
+                        "startColumns": "4,4",
+                        "startOffsets": "188,16",
+                        "endColumns": "133,171",
+                        "endOffsets": "317,183"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,189",
+                        "endColumns": "133,171",
+                        "endOffsets": "184,356"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/evaluator/Documents/Magisk-c59f-StageII-t11-6/stub/build/intermediates/merged_res/release/values-zh-rCN_values-zh-rCN.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/evaluator/Documents/Magisk-c59f-StageII-t11-6/stub/src/main/res/values-zh-rCN/strings.xml",
+                    "from": {
+                        "startLines": "4,3,5,2",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "183,123,222,55",
+                        "endColumns": "38,59,49,67",
+                        "endOffsets": "217,178,267,118"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,94,154,204",
+                        "endColumns": "38,59,49,67",
+                        "endOffsets": "89,149,199,267"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/evaluator/Documents/Magisk-c59f-StageII-t11-6/stub/build/intermediates/merged_res/release/values-mk_values-mk.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/evaluator/Documents/Magisk-c59f-StageII-t11-6/stub/src/main/res/values-mk/strings.xml",
+                    "from": {
+                        "startLines": "2,1",
+                        "startColumns": "4,4",
+                        "startOffsets": "165,16",
+                        "endColumns": "146,148",
+                        "endOffsets": "307,160"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,202",
+                        "endColumns": "146,148",
+                        "endOffsets": "197,346"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/evaluator/Documents/Magisk-c59f-StageII-t11-6/stub/build/intermediates/merged_res/release/values-az_values-az.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/evaluator/Documents/Magisk-c59f-StageII-t11-6/stub/src/main/res/values-az/strings.xml",
+                    "from": {
+                        "startLines": "2,1",
+                        "startColumns": "4,4",
+                        "startOffsets": "134,16",
+                        "endColumns": "113,117",
+                        "endOffsets": "243,129"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,169",
+                        "endColumns": "113,117",
+                        "endOffsets": "164,282"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/evaluator/Documents/Magisk-c59f-StageII-t11-6/stub/build/intermediates/merged_res/release/values-ar_values-ar.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/evaluator/Documents/Magisk-c59f-StageII-t11-6/stub/src/main/res/values-ar/strings.xml",
+                    "from": {
+                        "startLines": "4,3,2",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "246,154,55",
+                        "endColumns": "46,91,98",
+                        "endOffsets": "288,241,149"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,102,194",
+                        "endColumns": "46,91,98",
+                        "endOffsets": "97,189,288"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/evaluator/Documents/Magisk-c59f-StageII-t11-6/stub/build/intermediates/merged_res/release/values-ko_values-ko.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/evaluator/Documents/Magisk-c59f-StageII-t11-6/stub/src/main/res/values-ko/strings.xml",
+                    "from": {
+                        "startLines": "3,2,1",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "207,111,16",
+                        "endColumns": "39,95,94",
+                        "endOffsets": "242,202,106"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,95,191",
+                        "endColumns": "39,95,94",
+                        "endOffsets": "90,186,281"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/evaluator/Documents/Magisk-c59f-StageII-t11-6/stub/build/intermediates/merged_res/release/values-sk_values-sk.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/evaluator/Documents/Magisk-c59f-StageII-t11-6/stub/src/main/res/values-sk/strings.xml",
+                    "from": {
+                        "startLines": "4,3,5,2",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "289,183,334,55",
+                        "endColumns": "44,105,73,127",
+                        "endOffsets": "329,284,403,178"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,100,206,280",
+                        "endColumns": "44,105,73,127",
+                        "endOffsets": "95,201,275,403"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/evaluator/Documents/Magisk-c59f-StageII-t11-6/stub/build/intermediates/merged_res/release/values-ca_values-ca.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/evaluator/Documents/Magisk-c59f-StageII-t11-6/stub/src/main/res/values-ca/strings.xml",
+                    "from": {
+                        "startLines": "4,3,5,2",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "339,199,381,55",
+                        "endColumns": "41,139,90,143",
+                        "endOffsets": "376,334,467,194"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,97,237,328",
+                        "endColumns": "41,139,90,143",
+                        "endOffsets": "92,232,323,467"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/evaluator/Documents/Magisk-c59f-StageII-t11-6/stub/build/intermediates/merged_res/release/values-et_values-et.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/evaluator/Documents/Magisk-c59f-StageII-t11-6/stub/src/main/res/values-et/strings.xml",
+                    "from": {
+                        "startLines": "4,3,5,2",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "314,190,362,55",
+                        "endColumns": "47,123,70,134",
+                        "endOffsets": "357,309,428,185"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,103,227,298",
+                        "endColumns": "47,123,70,134",
+                        "endOffsets": "98,222,293,428"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/evaluator/Documents/Magisk-c59f-StageII-t11-6/stub/build/intermediates/merged_res/release/values-nl_values-nl.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/evaluator/Documents/Magisk-c59f-StageII-t11-6/stub/src/main/res/values-nl/strings.xml",
+                    "from": {
+                        "startLines": "4,3,2",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "324,186,55",
+                        "endColumns": "57,137,130",
+                        "endOffsets": "377,319,181"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,113,251",
+                        "endColumns": "57,137,130",
+                        "endOffsets": "108,246,377"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/evaluator/Documents/Magisk-c59f-StageII-t11-6/stub/build/intermediates/merged_res/release/values-ja_values-ja.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/evaluator/Documents/Magisk-c59f-StageII-t11-6/stub/src/main/res/values-ja/strings.xml",
+                    "from": {
+                        "startLines": "2,3,1",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "122,164,16",
+                        "endColumns": "41,91,105",
+                        "endOffsets": "159,251,117"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,97,189",
+                        "endColumns": "41,91,105",
+                        "endOffsets": "92,184,290"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/evaluator/Documents/Magisk-c59f-StageII-t11-6/stub/build/intermediates/merged_res/release/values-hi_values-hi.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/evaluator/Documents/Magisk-c59f-StageII-t11-6/stub/src/main/res/values-hi/strings.xml",
+                    "from": {
+                        "startLines": "4,3,5,2",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "306,187,358,55",
+                        "endColumns": "51,118,69,131",
+                        "endOffsets": "353,301,423,182"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,107,226,296",
+                        "endColumns": "51,118,69,131",
+                        "endOffsets": "102,221,291,423"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/evaluator/Documents/Magisk-c59f-StageII-t11-6/stub/build/intermediates/merged_res/release/values-uk_values-uk.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/evaluator/Documents/Magisk-c59f-StageII-t11-6/stub/src/main/res/values-uk/strings.xml",
+                    "from": {
+                        "startLines": "4,3,2",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "289,173,55",
+                        "endColumns": "46,115,117",
+                        "endOffsets": "331,284,168"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,102,218",
+                        "endColumns": "46,115,117",
+                        "endOffsets": "97,213,331"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/evaluator/Documents/Magisk-c59f-StageII-t11-6/stub/build/intermediates/merged_res/release/values-tr_values-tr.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/evaluator/Documents/Magisk-c59f-StageII-t11-6/stub/src/main/res/values-tr/strings.xml",
+                    "from": {
+                        "startLines": "4,3,5,2",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "296,175,342,55",
+                        "endColumns": "45,120,85,119",
+                        "endOffsets": "337,291,423,170"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,101,222,308",
+                        "endColumns": "45,120,85,119",
+                        "endOffsets": "96,217,303,423"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/evaluator/Documents/Magisk-c59f-StageII-t11-6/stub/build/intermediates/merged_res/release/values-es_values-es.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/evaluator/Documents/Magisk-c59f-StageII-t11-6/stub/src/main/res/values-es/strings.xml",
+                    "from": {
+                        "startLines": "3,2,4,1",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "307,166,353,16",
+                        "endColumns": "45,140,83,149",
+                        "endOffsets": "348,302,432,161"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,101,242,326",
+                        "endColumns": "45,140,83,149",
+                        "endOffsets": "96,237,321,471"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/evaluator/Documents/Magisk-c59f-StageII-t11-6/stub/build/intermediates/merged_res/release/values-fr_values-fr.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/evaluator/Documents/Magisk-c59f-StageII-t11-6/stub/src/main/res/values-fr/strings.xml",
+                    "from": {
+                        "startLines": "4,3,5,2",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "405,266,463,55",
+                        "endColumns": "57,138,85,210",
+                        "endOffsets": "458,400,544,261"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,113,252,338",
+                        "endColumns": "57,138,85,210",
+                        "endOffsets": "108,247,333,544"
+                    }
+                }
+            ]
+        }
+    ]
+}
